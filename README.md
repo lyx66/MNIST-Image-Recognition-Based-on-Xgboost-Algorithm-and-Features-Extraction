@@ -6,11 +6,11 @@
 - Train set: __*train-labels.gz* (label)__ + __*train-images-idx3-ubyte.gz* (featrues)__
 - Test set: __*test-labels.gz* (label)__ + __*t10k-images-idx3-ubyte.gz* (featrues)__
 #### Tips
-- It's necessary to unzip files suffixed with '.gz' before running the code.
+- It's necessary to unzip files suffixed with __*'.gz'*__ before running the code.
 - You can learn more details from the PDF file [*Data ming report & Userguide (in Simplified Chinese).pdf*](https://github.com/lyx66/MNIST-Image-Recognition-Based-on-Xgboost-algorithm-and-Features-extraction/blob/main/Data%20ming%20report%20%26%20Userguide%20(in%20Simplified%20Chinese).pdf).
 #### Copyright notice
-- AUTHOR: Yingxin LIN
+- AUTHOR: __*Yingxin LIN*__
 - Company: School of Finance, Central University of Finance and Economics (CUFE)
 - Contact: lyxurthebest@163.com or lyxurthebest@outlook.com
-- The copyright belongs to Yingxin LIN, 2021/08/11.
-#### Enjoy（。＾▽＾) 😊! (...and extend/modify)
+- The copyright belongs to __*Yingxin LIN*__ , 2021/08/11.
+#### *Enjoy*（。＾▽＾) *! (...and extend/modify)* 😊
