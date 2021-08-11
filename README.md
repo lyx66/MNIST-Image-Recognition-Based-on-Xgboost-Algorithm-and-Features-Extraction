@@ -10,7 +10,7 @@
 - You can learn more details from the PDF file [*Data ming report & Userguide (in Simplified Chinese).pdf*](https://github.com/lyx66/MNIST-Image-Recognition-Based-on-Xgboost-algorithm-and-Features-extraction/blob/main/Data%20ming%20report%20%26%20Userguide%20(in%20Simplified%20Chinese).pdf).
 #### Copyright notice
 - AUTHOR: __*Yingxin LIN*__
-- Company: School of Finance, Central University of Finance and Economics (CUFE)
+- Company: *School of Finance, Central University of Finance and Economics* (CUFE)
 - Contact: lyxurthebest@163.com or lyxurthebest@outlook.com
 - The copyright belongs to __*Yingxin LIN*__ , 2021/08/11.
 #### *Enjoy*（。＾▽＾) *! (...and extend/modify)* 😊
