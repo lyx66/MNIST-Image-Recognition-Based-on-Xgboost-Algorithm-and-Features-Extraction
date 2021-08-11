@@ -7,7 +7,7 @@
 - Test set: __*test-labels.gz* (label)__ + __*t10k-images-idx3-ubyte.gz* (featrues)__
 #### Tips
 - It's necessary to unzip files suffixed with '.gz' before running the code.
-- You can learn more details from the PDF file [Data ming report & Userguide (in Simplified Chinese).pdf](https://www.jianshu.com/p/8d7325f54ce4).
+- You can learn more details from the PDF file [*Data ming report & Userguide (in Simplified Chinese).pdf*](https://www.jianshu.com/p/8d7325f54ce4).
 #### Copyright notice
 - AUTHOR: Yingxin LIN
 - Company: School of Finance, Central University of Finance and Economics (CUFE)
