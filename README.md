@@ -6,7 +6,7 @@
 - Train set: train-labels.gz (label) + train-images-idx3-ubyte.gz (featrues)
 - Test set: test-labels.gz (label) + t10k-images-idx3-ubyte.gz (featrues)
 #### Notice
-- It's necessary to unzip files suffixed with'.gz' before running the code.
+- It's necessary to unzip files suffixed with '.gz' before running the code.
 #### Copyright notice
 - AUTHOR: Yingxin LIN
 - Company: School of Finance, Central University of Finance and Economics (CUFE)
