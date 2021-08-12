@@ -4,7 +4,7 @@
 - In addition, since I've made extensive use of the __*broadcasting mechanism of NumPy*__ instead of loops when coding, the code can run at an excellent speed.
 - I also define the handwritten numeral edge scanning function *totally based on NumPy*, which can scan the number of *on pixels* within image edge with excellent speed and precision in a short time. Some scanning results are shown below:
 #### *Fig.1 Scanning from right to left (The first 49 pictures in MNIST)*
-![fig.1](https://github.com/lyx66/MNIST-Image-Recognition-Based-on-Xgboost-Algorithm-and-Features-Extraction/blob/main/Scanning%20from%20left%20to%20right%20(The%20first%2049%20pictures%20in%20MNIST).png?raw=false)
+![fig.1](https://github.com/lyx66/MNIST-Image-Recognition-Based-on-Xgboost-Algorithm-and-Features-Extraction/blob/main/Scanning%20from%20right%20to%20left%20(The%20first%2049%20pictures%20in%20MNIST).png?raw=false)
 #### *Fig.2 Scanning from top to bottom (The first 49 pictures in MNIST)*
 ![fig.2](https://github.com/lyx66/MNIST-Image-Recognition-Based-on-Xgboost-Algorithm-and-Features-Extraction/blob/main/Scanning%20from%20top%20to%20bottom%20(The%20first%2049%20pictures%20in%20MNIST).png?raw=false)
 ### Files loaded
