@@ -1,5 +1,6 @@
 # MNIST-Image-Recognition-Based-on-Xgboost-Algorithm-and-Features-Extraction
-#### Introduction
+by ***Yingxin LIN***
+### Introduction
 - Different from the common practice of MNIST image recognition using *CNN* algorithm, I apply NumPy and OpenCV to extract relevant features from each MNIST figure, and then train a __*Xgboost*__ recognition model. After gradually adjusting parameters, the accuracy of the optimal model on the test set can reach 88%.
 - In addition, since I've made extensive use of the __*broadcasting mechanism of NumPy*__ instead of loops when coding, the code can run at an excellent speed.
 - I also define the handwritten numeral edge scanning function *totally based on NumPy*, which can scan the number of *on pixels* within image edge with excellent speed and precision in a short time. Some scanning results are shown below:
